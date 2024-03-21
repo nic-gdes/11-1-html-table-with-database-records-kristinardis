@@ -1,0 +1,28 @@
+th, td {
+    padding: 1rem 2rem;
+    text-align: left;
+    min-width: 12rem;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center
+    
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 3px;
+}
+body {
+    background-color: #f3caca;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
